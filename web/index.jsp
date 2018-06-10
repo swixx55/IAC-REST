@@ -4,7 +4,7 @@
   <title>Simple Jersey</title>
 </head>
 <body>
-<form method="post" action="rest/myresource" >
+<form method="post" action="rest/BMI" >
   <input name="leeftijd" type="number" />
   <input name="gewicht" type="number" />
   <input type="submit"/>
